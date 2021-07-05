@@ -6,7 +6,7 @@
 
 ## Featured Techniques
 * Linear Regression
-* Long Short Term Memory (artifical recurrent neural network)
+* Long Short Term Memory (LSTM)
 * ARIMA Time Series Forecasting
 
 ## Results
